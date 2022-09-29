@@ -1,0 +1,20 @@
+<script src="{THEME}/assets/js/jquery.js"></script>
+<script src="{THEME}/assets/js/popper.min.js"></script>
+<script src="{THEME}/assets/js/bootstrap.min.js"></script>
+<script src="{THEME}/assets/js/TweenMax.js"></script>
+<script src="{THEME}/assets/js/jquery-ui.js"></script>
+<script src="{THEME}/assets/js/jquery.fancybox.js"></script>
+<script src="{THEME}/assets/js/owl.js"></script>
+<script src="{THEME}/assets/js/mixitup.js"></script>
+<script src="{THEME}/assets/js/appear.js"></script>
+<script src="{THEME}/assets/js/wow.js"></script>
+<script src="{THEME}/assets/js/jQuery.style.switcher.min.js"></script>
+<script src="{THEME}/assets/js/jquery.easing.min.js"></script>
+<script src="{THEME}/assets/js/jarallax.min.js"></script>
+<script src="{THEME}/assets/js/custom-script.js"></script>
+<script src="{THEME}/assets/js/calculator.js"></script>
+<script src="{THEME}/assets/js/helper.js"></script>
+<script src="{THEME}/assets/js/search.js"></script>
+<script src="{THEME}/assets/js/subscribe.js"></script>
+<script src="{THEME}/assets/device-uuid/lib/device-uuid.js" type="text/javascript"></script>
+<script src="{THEME}/assets/js/monomarkaz.js"></script>
